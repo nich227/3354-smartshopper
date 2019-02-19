@@ -1,1 +1,5 @@
-An Android app for mapping locations of specific products within a store.
+# Smartshopper
+
+## Description
+Shopping but don't know where to find stuff? With Smartshopper, it'll be less tough! 
+
