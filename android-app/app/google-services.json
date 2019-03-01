@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "113196170274",
+    "firebase_url": "https://smartshopper-8dc7b.firebaseio.com",
+    "project_id": "smartshopper-8dc7b",
+    "storage_bucket": "smartshopper-8dc7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113196170274:android:80efcbe125df4d91",
+        "android_client_info": {
+          "package_name": "zyx.smartshopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113196170274-o7fhqfrt71vibh9pu1nmmjmmf6i2r75p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9u16dfJkUa6wB7xpIjU164MvI1H2CVbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
