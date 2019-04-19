@@ -5,6 +5,7 @@ public class Item {
     private String name;
     private String description;
     private double price;
+    private int count;
 
     public Item(int id) {
         this(id, "Unknown Item", "No Description", 0.0);
@@ -15,6 +16,7 @@ public class Item {
         this.name = name;
         this.description = description;
         this.price = price;
+        this.count = 1;
     }
 
     public String getName() {
@@ -39,5 +41,20 @@ public class Item {
 
     public void setPrice(double price) {
         this.price = price;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public int getCount() {
+        return count;
+    }
+
+    public void incrementCount() {
+        count++;
+    }
+    public void decrementCount() {
+        count--;
     }
 }
